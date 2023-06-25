@@ -11,6 +11,9 @@ Languages: <br/>
 ![css](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/af729734-55ad-4a17-ab50-30f7ba486884)
 ![js](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/f99d5e1f-3e99-4266-bdbc-87638b2388d1)
 
+OS: <br/>
+![ubuntu](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/65da4740-b1e4-4b93-85d0-085177ff3716)
+
 ### Favorite quotes
 > My name is Linus, and I am your God. <br/>
 > — Linus Torvalds
