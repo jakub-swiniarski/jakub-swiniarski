@@ -11,6 +11,11 @@ Languages: <br/>
 ![css](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/af729734-55ad-4a17-ab50-30f7ba486884)
 ![js](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/f99d5e1f-3e99-4266-bdbc-87638b2388d1)
 
+Text editors/IDEs: <br/>
+![vscode](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/4f868348-7e06-4b53-a73a-20f2b7629041)
+![intellij](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/30677767-3a95-49b0-b46c-69903033b088)
+![androidstudio](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/cd781ddc-073d-45ff-8939-4eb7b6a2d7c4)
+
 OS: <br/>
 ![ubuntu](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/65da4740-b1e4-4b93-85d0-085177ff3716)
 
