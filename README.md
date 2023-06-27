@@ -25,3 +25,6 @@ OS: <br/>
 
 > Any program is only as good as it is useful. <br/>
 > — Linus Torvalds
+
+> An idiot admires complexity, a genius admires simplicity. <br/>
+> — Terry A. Davis
