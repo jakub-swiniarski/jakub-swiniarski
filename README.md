@@ -20,11 +20,11 @@ OS: <br/>
 ![ubuntu](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/65da4740-b1e4-4b93-85d0-085177ff3716)
 
 ### Favorite quotes
-> My name is Linus, and I am your God. <br/>
+> "My name is Linus, and I am your God." <br/>
 > — Linus Torvalds
 
-> Any program is only as good as it is useful. <br/>
+> "Any program is only as good as it is useful." <br/>
 > — Linus Torvalds
 
-> An idiot admires complexity, a genius admires simplicity. <br/>
+> "An idiot admires complexity, a genius admires simplicity." <br/>
 > — Terry A. Davis
