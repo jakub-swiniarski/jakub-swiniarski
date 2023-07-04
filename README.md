@@ -6,6 +6,7 @@ Languages: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/720b4839-f389-415d-9d8f-26100983e9b4" width=56 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/01cfd882-46eb-41e0-a1cd-9f9fe79f0cdf" width=56 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/89527f31-4c8c-4374-b87b-701230b43d24" width=56 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/404bff9e-97c8-419e-85f8-452fc037541e" width=36 height=64>
 
 Text editors/IDEs: <br/>
 ![vscode](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/4f868348-7e06-4b53-a73a-20f2b7629041)
