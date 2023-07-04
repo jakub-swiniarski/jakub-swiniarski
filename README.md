@@ -19,7 +19,7 @@ Text editors/IDEs: <br/>
 OS: <br/>
 ![ubuntu](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/65da4740-b1e4-4b93-85d0-085177ff3716)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-swiniarski&size_weight=0&count_weight=1&hide=batchfile,powershell&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-swiniarski&size_weight=0&count_weight=1&hide=batchfile,powershell&layout=compact&theme=dark)
 
 ### Favorite quotes
 > "My name is Linus, and I am your God." <br/>
