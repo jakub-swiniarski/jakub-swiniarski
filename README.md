@@ -8,6 +8,8 @@ Languages: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/89527f31-4c8c-4374-b87b-701230b43d24" width=56 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/404bff9e-97c8-419e-85f8-452fc037541e" width=36 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/7052132a-145b-462a-80ae-5b64ca312fb5" width=64 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/c924ebd6-48e9-4c24-a2c3-c053ac0de5e7" width=48 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/a44889be-a83d-4877-b87d-5d43e1031744" width=64 height=64>
 
 Text editors/IDEs: <br/>
 ![vscode](https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/4f868348-7e06-4b53-a73a-20f2b7629041)
