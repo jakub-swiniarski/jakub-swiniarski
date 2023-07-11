@@ -5,7 +5,7 @@
 Languages: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/720b4839-f389-415d-9d8f-26100983e9b4" width=56 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/01cfd882-46eb-41e0-a1cd-9f9fe79f0cdf" width=56 height=64>
-<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/89527f31-4c8c-4374-b87b-701230b43d24" width=56 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/f6450472-b115-4796-9219-88c3f211da06" width=56 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/404bff9e-97c8-419e-85f8-452fc037541e" width=36 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/7052132a-145b-462a-80ae-5b64ca312fb5" width=64 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/c924ebd6-48e9-4c24-a2c3-c053ac0de5e7" width=48 height=64>
