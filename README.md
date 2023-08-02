@@ -18,7 +18,7 @@ Text editors/IDEs: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/ab106663-2ad5-4674-a738-890db703588c" width=60 height=64>
 
 OS: <br/>
-<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/483bb936-bfe5-47d7-a6c3-ef278bbfb887" width=64 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/bfd5fd78-1d24-43c1-88c5-ef223bcfdedf" width=64 height=64>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-swiniarski&size_weight=0&count_weight=1&hide=batchfile,powershell&layout=compact&theme=dark)
 
