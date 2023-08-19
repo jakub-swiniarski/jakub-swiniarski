@@ -13,7 +13,7 @@ Languages: <br/>
 
 Text editors/IDEs: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/2f5b978d-4695-4c27-b1a1-bcbdd30e8925" width=64 height=64>
-<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/764078fb-8a05-43cb-b836-bbf64c86cc34" width=64 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/ae2dace1-3f68-4f03-8405-894a7054eb37" width=40 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/16e83a64-2a3b-4b71-b006-c08458926e8c" width=52 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/3c4d8327-18bf-4e22-9dea-c0ae990e3285" width=64 height=64>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/ab106663-2ad5-4674-a738-890db703588c" width=60 height=64>
