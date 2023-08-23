@@ -1,5 +1,5 @@
 # Hi, I'm Jakub 👋
-## A Linux fan and Java enjoyer from Poland 🇵🇱
+## A Linux fan and Arch user from Poland 🇵🇱
 
 ### Technologies I use
 Languages: <br/>
