@@ -20,7 +20,7 @@ Text editors/IDEs: <br/>
 OS: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/e705f6ff-6655-48e4-9498-c789e1d61857" width=64 height=64>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-swiniarski&size_weight=0&count_weight=1&layout=compact&theme=dark&hide=batchfile,powershell,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-swiniarski&size_weight=0&count_weight=1&layout=compact&theme=dark&hide=batchfile,powershell,makefile,roff)
 
 ### Favorite quotes
 > "My name is Linus, and I am your God." <br/>
