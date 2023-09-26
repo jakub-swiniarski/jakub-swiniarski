@@ -13,7 +13,7 @@ Languages: <br/>
 
 OS/Text editor: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/e705f6ff-6655-48e4-9498-c789e1d61857" width=64 height=64>
-<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/16e83a64-2a3b-4b71-b006-c08458926e8c" width=52 height=64>
+<img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/35c6b457-3301-4244-98c8-a6ce42c71009" width=64 height=64>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-swiniarski&size_weight=0&count_weight=1&layout=compact&theme=dark&hide=batchfile,powershell,makefile,roff) <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=dark&rank_icon=percentile)
