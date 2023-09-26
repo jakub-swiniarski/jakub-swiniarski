@@ -1,5 +1,5 @@
 # Hi, I'm Jakub 👋
-## A Linux fan and Neovim user from Poland 🇵🇱
+## A Linux fan and Vim user from Poland 🇵🇱
 
 ### Technologies I use
 Languages: <br/>
