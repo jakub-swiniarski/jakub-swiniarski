@@ -1,5 +1,5 @@
 # Hi, I'm Jakub 👋
-## A Linux enthusiast and Vim user from Poland 🇵🇱
+## A GNU/Linux enthusiast and Vim user from Poland 🇵🇱
 
 ### Technologies I use
 Languages: <br/>
