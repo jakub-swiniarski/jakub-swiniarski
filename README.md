@@ -16,9 +16,6 @@ OS/Code editor: <br/>
 <img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/35c6b457-3301-4244-98c8-a6ce42c71009" width=64 height=64>
 
 ### Favorite quotes
-> "My name is Linus, and I am your God." <br/>
-> — Linus Torvalds
-
 > "Any program is only as good as it is useful." <br/>
 > — Linus Torvalds
 
