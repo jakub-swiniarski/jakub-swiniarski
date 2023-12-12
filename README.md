@@ -3,7 +3,7 @@
 ## My approach to software development
 I create free and open source software. I try my best to keep it simple, minimal and lightweight.
 
-## How I do my programming
+## How I do my coding
 I currently find myself using Arch GNU/Linux as my daily driver. My code editor of choice is Vim. 
 
 ## Favorite quotes
