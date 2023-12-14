@@ -1,7 +1,7 @@
 # Hi, I'm Jakub
 
 ## My approach to software development
-I create free and open source software. I try my best to keep it simple, minimal and lightweight.
+I create free and open source software. I try my best to keep it simple, minimal and lightweight. <br/>
 My favorite languages for developing all kinds of software are C and C++.
 
 ## How I do my coding
