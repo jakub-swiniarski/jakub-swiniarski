@@ -5,7 +5,7 @@ I create free and open source software. I try my best to keep it simple, minimal
 My favorite languages for developing all kinds of software are C and C++.
 
 ## How I do my coding
-I currently find myself using Arch GNU/Linux as my daily driver. My code editor of choice is Vim. 
+Arch GNU/Linux is my daily driver operating system. I use [my custom fork of dwm](https://github.com/jakub-swiniarski/dwm) as my window manager. My code editor of choice is Vim. You can find my Vim config [here](https://github.com/jakub-swiniarski/vim-config).
 
 ## Favorite quotes
 > "Any program is only as good as it is useful." <br/>
