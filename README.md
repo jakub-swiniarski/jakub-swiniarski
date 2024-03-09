@@ -1,5 +1,5 @@
 # Hi, I'm Jakub
-I'm a C/C++ programmer from Poland, with a passion for clean, elegant and efficient code. I value minimalism and simplicity in software design.
+I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficient code. I value minimalism and simplicity in software design.
 
 ## What I do:
 - develop software in C and C++,
