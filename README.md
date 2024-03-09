@@ -1,11 +1,6 @@
 # Hi, I'm Jakub
 
-## My approach to software development
-I create free and open source software. I try my best to keep it simple, minimal and lightweight. <br/>
-My favorite programming languages are C and C++.
-
-## How I do my coding
-Arch GNU/Linux is my daily driver operating system. I use [my custom fork of dwm](https://github.com/jakub-swiniarski/dwm) as my window manager. My code editor of choice is Vim. You can find my Vim config [here](https://github.com/jakub-swiniarski/vim-config).
+I'm a C/C++ programmer from Poland, with a passion for clean, elegant and efficient code. I value minimalism and simplicity in software design.
 
 ## Favorite quotes
 > "Any program is only as good as it is useful." <br/>
