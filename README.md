@@ -4,6 +4,7 @@ I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficie
 ## What I do
 - Develop software in C and C++.
 - Continously improve my coding skills.
+- Tinker around with Linux-based systems.
 
 ## Favorite quotes
 > "Any program is only as good as it is useful." <br/>
