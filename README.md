@@ -2,7 +2,7 @@
 I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficient code. I value minimalism and simplicity in software design.
 
 ## What I do
-- Develop software in C and C++.
+- Develop software in various languages.
 - Continously improve my coding skills.
 - Tinker around with Linux-based systems.
 
