@@ -12,3 +12,5 @@ I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficie
 
 > "An idiot admires complexity, a genius admires simplicity." <br/>
 > — Terry A. Davis
+
+<a href=https://www.gentoo.org><img src="https://github.com/jakub-swiniarski/jakub-swiniarski/assets/77209709/2c318fa4-616a-4945-8ee6-f2cf4786b4ca"></a>
