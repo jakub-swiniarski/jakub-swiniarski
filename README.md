@@ -9,6 +9,9 @@ I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficie
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
+## My stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=dark)
+
 ## Favorite quotes
 > "Any program is only as good as it is useful." <br/>
 > — Linus Torvalds
