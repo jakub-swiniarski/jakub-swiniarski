@@ -10,7 +10,8 @@ I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficie
 </div>
 
 ## My stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=dark)
+![GitHub stats dark](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=dark#gh-dark-mode-only)
+![GitHub stats light](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=default#gh-light-mode-only)
 
 ## Favorite quotes
 > "Any program is only as good as it is useful." <br/>
