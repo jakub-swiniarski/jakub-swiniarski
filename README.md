@@ -1,4 +1,4 @@
-# Hi, I'm Jakub
+# Hi, I'm Jakub 🇵🇱
 I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficient code. I value minimalism and simplicity in software design. I use Gentoo GNU/Linux as my daily driver operating system.
 
 ## My tech stack
