@@ -9,10 +9,6 @@ I'm a C/C++ programmer from Poland with a passion for clean, elegant and efficie
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=fff)"/>
 </div>
 
-## My stats
-[![GitHub stats dark](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats light](https://github-readme-stats.vercel.app/api?username=jakub-swiniarski&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 ## Favorite quotes
 > "Any program is only as good as it is useful." <br/>
 > — Linus Torvalds
